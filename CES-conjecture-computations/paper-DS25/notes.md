@@ -17,5 +17,5 @@ It then checks whether these two subgroups coincide.
 By default, the code runs for *p = 29*, corresponding to the first open case of the conjecture resolved in the paper 
 [Torsion points on elliptic curves over number fields of small degree](https://msp.org/ant/2023/17-2/p01.xhtml) that inspired this work. 
 
-You can test additional primes by supplying the appropriate Hecke operator as given in the tables of the paper. 
+You can test additional cases by uncommenting the line "// p := ;", choosing your favourite prime and supplying the appropriate Hecke operator as given in the tables of the paper. 
 To date, computations have been carried out up to the prime p = 113; larger primes may require significantly more CPU time and repeated trials.
