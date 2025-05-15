@@ -1,7 +1,7 @@
 # Computational Verification of Rational Torsion on X₁(p)
 
-This repository contains the code **`DS25-code.m`**, developed to reproduce and confirm the computational claims made in the 
-article “On Some Open Cases of a Conjecture of Conrad, Edixhoven and Stein” by myself and Michael Stoll.
+This repository contains the code **`DS25-code.m`**, developed to reproduce and verify the computational claims made in the 
+paper “On Some Open Cases of a Conjecture of Conrad, Edixhoven and Stein”, co-authored by Michael Stoll and me.
 
 ## Description
 
