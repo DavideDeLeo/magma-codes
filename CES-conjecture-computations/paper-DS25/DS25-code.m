@@ -7,7 +7,7 @@
 
 start_time := Cputime();
 
-p := ;
+// p := ;
 
 if not assigned p then
   p := 29;
